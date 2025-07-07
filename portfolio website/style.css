@@ -345,7 +345,7 @@ nav .fa-bars{
 @media only screen and (max-width: 600px)
 {
  #header{
-  background: url('./images/phone\ background.jpg');
+  background: url('./images/map-2176x1451.png');
  }
  .header-text{
   margin-top: 100%;
@@ -364,7 +364,8 @@ nav .fa-bars{
   cursor: pointer;
  }
  nav ul{
-  background: #ff004f;
+  background: blueviolet;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.963);
   position: fixed;
   top: 0;
   right: -200px;
