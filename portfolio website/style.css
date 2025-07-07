@@ -346,6 +346,7 @@ nav .fa-bars{
 {
  #header{
   background: url('./images/map-2176x1451.png');
+  background-position: cover;
  }
  .header-text{
   margin-top: 100%;
