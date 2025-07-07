@@ -345,8 +345,8 @@ nav .fa-bars{
 @media only screen and (max-width: 600px)
 {
  #header{
-  background: url('./images/map-2176x1451.png');
-  background-position: cover;
+  background: url('./images/scenic-2200x1331.png');
+  background-position: center;
  }
  .header-text{
   margin-top: 100%;
